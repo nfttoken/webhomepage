@@ -90,7 +90,7 @@
     "webpack-bundle-analyzer": "^4.5.0",
     "webpack-env": "^0.8.0"
   },
-  "proxy": "https://rpc-mainnet.kcc.network",
+  "proxy": "https://rpc-testnet.oychain.io",
   "husky": {
     "hooks": {
       "pre-commit": "yarn format:check",
