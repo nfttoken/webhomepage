@@ -135,19 +135,19 @@ const ImageWrap = styled(Row)`
 
 const Characteristics = [
   {
-    description: 'OYChain INTRODUCE 1',
+    description: 'KCC INTRODUCE 1',
     image: require('../../assets/images/home/introduce-1@2x.png').default,
   },
   {
-    description: 'OYChain INTRODUCE 2',
+    description: 'KCC INTRODUCE 2',
     image: require('../../assets/images/home/introduce-2@2x.png').default,
   },
   {
-    description: 'OYChain INTRODUCE 3',
+    description: 'KCC INTRODUCE 3',
     image: require('../../assets/images/home/introduce-3@2x.png').default,
   },
   {
-    description: 'OYChain INTRODUCE 4',
+    description: 'KCC INTRODUCE 4',
     image: require('../../assets/images/home/introduce-4@2x.png').default,
   },
 ]
@@ -772,8 +772,8 @@ const HomePage: React.FunctionComponent<HomePageProps> = () => {
                   >
                     {t('Why  OYChain')}
                   </TitleText>
-                  <ParagraphText style={{ width: 'auto' }}>{t(`OYChain First Introduction`)}</ParagraphText>
-                  <ParagraphText style={{ width: 'auto' }}>{t(`OYChain Second Introduction`)}</ParagraphText>
+                  <ParagraphText style={{ width: 'auto' }}>{t(`KCC First Introduction`)}</ParagraphText>
+                  <ParagraphText style={{ width: 'auto' }}>{t(`KCC Second Introduction`)}</ParagraphText>
                 </Column>
               </RowBetween>
             </BrowserView>
@@ -799,8 +799,8 @@ const HomePage: React.FunctionComponent<HomePageProps> = () => {
                   >
                     {t('Why OYChain')}
                   </TitleText>
-                  <ParagraphText style={{ width: '100%' }}>{t(`OYChain First Introduction`)}</ParagraphText>
-                  <ParagraphText style={{ width: '100%' }}>{t(`OYChain Second Introduction`)}</ParagraphText>
+                  <ParagraphText style={{ width: '100%' }}>{t(`KCC First Introduction`)}</ParagraphText>
+                  <ParagraphText style={{ width: '100%' }}>{t(`KCC Second Introduction`)}</ParagraphText>
                 </Column>
               </ColumnCenter>
             </MobileView>
